@@ -6,7 +6,7 @@ module.exports = {
     {
       resolve: "gatsby-source-wordpress",
       options: {
-        url: "",
+        url: "https://masterducks.ca/graphql",
       },
     },
     "gatsby-plugin-styled-components",
